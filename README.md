@@ -15,6 +15,6 @@ $$0^\circ < \theta < 50^\circ$$
  $$-0.05 < M < 0.05$$ 
  $$0 < X < 100$$
 
-and parameter "t" is in the range   \
+and parameter "t" is in the range   
 
  $$6 \leq t \leq 60$$ 
