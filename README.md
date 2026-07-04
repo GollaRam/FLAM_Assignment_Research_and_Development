@@ -80,3 +80,14 @@ The optimization recovered the following parameters:
 | θ | 30.0000° (0.523598 rad) |
 | M | 0.030000 |
 | X | 54.999998 |
+
+
+The figure below compares the fitted curve with the original dataset. The recovered curve closely overlaps the observed points, indicating that the estimated parameters accurately reconstruct the original parametric curve.
+
+<p align="center">
+  <img src="fitted_curve_plot.png" width="650">
+</p>
+
+<p align="center">
+<i>Figure 1. Comparison between the recovered parametric curve (red) and the original data points (blue).</i>
+</p>
